@@ -1,0 +1,10 @@
+{
+  "name": "manoj",
+  "company": "Neosoft",
+  "description": "I am a backend developer",
+  "address": {
+    "city": "Pune",
+    "State": "Maharashtra",
+    "pincode": 410506
+  }
+}
